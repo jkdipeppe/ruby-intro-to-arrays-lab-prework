@@ -3,5 +3,7 @@ def instantiate_new_array
 end
 
 def array_with_two_elements
-  array = ['element1', 'element2']
+  array = [[{'object', 1}, {'object', 2}]
 end
+
+def array_with
